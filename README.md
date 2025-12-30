@@ -23,8 +23,3 @@ The model helps in early detection of eye diseases by analyzing medical images.
 - Transfer Learning using a pre-trained model EfficientNetB3
 - Optimized using Adam optimizer
 - Evaluated using accuracy and loss metrics
-
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-
